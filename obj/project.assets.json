@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/ryan/.nuget/packages/": {}
+    "/Users/emanley/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ryan/blue/YourMyBoyBlue/YourMyBoyBlue.csproj",
-      "projectName": "YourMyBoyBlue",
-      "projectPath": "/home/ryan/blue/YourMyBoyBlue/YourMyBoyBlue.csproj",
-      "packagesPath": "/home/ryan/.nuget/packages/",
-      "outputPath": "/home/ryan/blue/YourMyBoyBlue/obj/",
+      "projectUniqueName": "/Users/emanley/dev2/azure/eric/forkz/blue/Blue.csproj",
+      "projectName": "Blue",
+      "projectPath": "/Users/emanley/dev2/azure/eric/forkz/blue/Blue.csproj",
+      "packagesPath": "/Users/emanley/.nuget/packages/",
+      "outputPath": "/Users/emanley/dev2/azure/eric/forkz/blue/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/ryan/.nuget/NuGet/NuGet.Config"
+        "/Users/emanley/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -49,8 +49,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -62,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.408/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/Cellar/dotnet@6/6.0.114/libexec/sdk/6.0.114/RuntimeIdentifierGraph.json"
       }
     }
   }

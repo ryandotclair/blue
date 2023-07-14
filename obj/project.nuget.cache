@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "92wR5gvCnGZPRJ6NUzYGx9C47SHDHdL6DONYWCgdmdPHIOCdVcYEc7oaGthMuO1QjyBv/Guf/Z3znp9y38oLUA==",
+  "dgSpecHash": "jr06Ik9Y0aNtRzzDWOvAZXpO5R6/h4VMNNiDWqRPDVrwRfQXVt6SCus8LvHUxcLojvgoNZpt12Btuf+VTWIufA==",
   "success": true,
-  "projectFilePath": "/home/ryan/blue/YourMyBoyBlue/YourMyBoyBlue.csproj",
+  "projectFilePath": "/Users/emanley/dev2/azure/eric/forkz/blue/Blue.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
